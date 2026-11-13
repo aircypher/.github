@@ -1,4 +1,9 @@
-<h1 align="center">AirCypher</h1>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aircypher/.github/main/profile/assets/aircypher-logo-dark.svg">
+    <img src="https://raw.githubusercontent.com/aircypher/.github/main/profile/assets/aircypher-logo-light.svg" width="460" alt="AirCypher: a map of Japan drawn as air streams, with monitoring stations linked as a graph">
+  </picture>
+</p>
 
 <p align="center">
   <b>Japan's air quality as a knowledge graph you can question in plain English.</b><br>
